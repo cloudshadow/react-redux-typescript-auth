@@ -100,7 +100,7 @@ module.exports = {
     inline: true,
     compress: true,
     host: '0.0.0.0',
-    port: 3000,
+    port: 5000,
     progress: true,
     open: true,
     // hot: true, //see more https://github.com/webpack/webpack/issues/1151

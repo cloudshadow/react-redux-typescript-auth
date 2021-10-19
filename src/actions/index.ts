@@ -1,9 +1,9 @@
 import { homeActions } from './homeActions';
-import { homeThunkActions } from './homeThunkActions';
+import { authActions } from './authActions';
 
 const rootAction = {
   homeActions,
-  homeThunkActions,
+  authActions,
 };
 
 export default rootAction;

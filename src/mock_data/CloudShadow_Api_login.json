@@ -1,0 +1,12 @@
+{
+  "accessToken": "aaaaaaaaaaaa",
+  "refreshToken": "bbbbbbbbbb",
+  "user": {
+    "email": "aaa@a.com",
+    "userName": "test",
+    "role": 1,
+    "phone": "+1 5202227711",
+    "position": "Manager",
+    "sex": "female"
+  }
+}
